@@ -23,4 +23,4 @@ The CrustIQ Store owner requested an annual sales report for 2025 to gain insigh
 - <a href="https://github.com/govind-tandon/CrutIQ-Analytics/blob/main/pizza_sales.sql">SQL
 - <a href="https://github.com/govind-tandon/CrutIQ-Analytics/blob/main/pizzaa_sales.pbix">Power BI
 - <a href="https://github.com/govind-tandon/CrutIQ-Analytics/blob/main/Screenshot_20251108-223948.png">Dashboard 1
-  - <a href="https://github.com/govind-tandon/CrutIQ-Analytics/blob/main/Screenshot_20251108-224011.png">Dashboard 2
+- <a href="https://github.com/govind-tandon/CrutIQ-Analytics/blob/main/Screenshot_20251108-224011.png">Dashboard 2
