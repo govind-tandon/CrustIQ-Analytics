@@ -11,8 +11,16 @@ The CrustIQ Store owner requested an annual sales report for 2025 to gain insigh
 - Average pizzas per order
 - Number of pizzas sold by the total number of orders.
 
+#Process
+- Gathered raw sales data from the CrustIQ store database and imported it into Excel and SQL Server for analysis.
+- Removed duplicates, handled missing values, corrected data types, and ensured consistent date and product formats.
+- Metric Calculations
+- Connected the cleaned dataset to Power BI and designed interactive charts to visualize the KPIs, sales trends, and order performance.
+- Highlighted top-performing products and periods with conditional formatting and KPIs cards.
+- Derived insights on customer purchasing behavior and provided recommendations to increase sales for future .
+
 #Dataset used
 - <a href="https://github.com/govind-tandon/CrutIQ-Analytics/blob/main/pizza_sales.sql">SQL
 - <a href="https://github.com/govind-tandon/CrutIQ-Analytics/blob/main/pizzaa_sales.pbix">Power BI
-- <a href="https://github.com/govind-tandon/CrutIQ-Analytics/blob/main/Screenshot_20251108-223948.png">Dashboard
-- 
+- <a href="https://github.com/govind-tandon/CrutIQ-Analytics/blob/main/Screenshot_20251108-223948.png">Dashboard 1
+  - <a href="https://github.com/govind-tandon/CrutIQ-Analytics/blob/main/Screenshot_20251108-224011.png">Dashboard 2
